@@ -1,0 +1,31 @@
+/*
+input{
+    padding: 10px;
+    font-size: inherit;
+
+}
+input[type="text"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 30%;
+    border: 2px solid black;
+}
+
+input[type="number"]{
+    display: block;
+    margin-bottom: 25px;
+    width: 30%;
+    border: 2px solid black;
+}
+form{
+
+}
+
+*/
+
+#survey form{
+    background-color:gray;
+    height:80%;
+    width:40%;
+    
+}
